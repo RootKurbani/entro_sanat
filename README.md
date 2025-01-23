@@ -1,2 +1,2 @@
 # entro_sanat
-A python script that generates psudo-random drawings
+Yarı rastgele şekilde çizim oluşturan Python skripti //A python script that generates psudo-random drawings
