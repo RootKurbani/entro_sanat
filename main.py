@@ -33,7 +33,7 @@ print(entro)
 print("Okunur Entropi eşittir :")
 ok_entro = entro.hex()
 print(ok_entro)
-ok_entro_kaydet = ok_entro
+# ok_entro_kaydet = ok_entro # ok_entro_kaydet hiçbir zaman kullanılmadı // ok_entro_kaydet was never used
 print("rast int:")
 print(rast_int1)
 pen.title(ok_entro) # turtle başlığı / turtle title
@@ -45,7 +45,7 @@ def sanat(rast_int4):
         #pen.bgcolor(renk_kaos1,
         # renk_kaos3,
         # renk_kaos2)
-
+# arka plan rengi PIL tarafından kaydedilmiyor / background color isn't saved by the PIL
         nok.color(renk_kaos1,
                   renk_kaos2,
                   renk_kaos3)
